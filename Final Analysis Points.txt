@@ -1,0 +1,17 @@
+-There is a trend change during transition between 2017 to 2018, as evidenced by lower Funnel step in Tutorial 1 despite no changes in log
+-new user by itself never used as a measure how good the game is.
+-Splash screen lower funnel maybe affected by the change in advertising and trend
+-The user consistently paying is a veteran paid user, while not all new user are converted to paid user
+-paying user consists of veteran player of this game. Also, the new users doesn’t feel engaged enough to pay for the game
+-paying user steadily decreasing overtime despite many new user joining
+-to obtain high conversion rate, then the paying user must be high value while the new user at lower value
+-both year actually have similar retention
+-for a game to be good (reach 12 $ ARPPU), 1 paying user need to spend at least 12 $.
+-to obtain high conversion rate, then the paying user must be high value while the new user at lower value
+-by funnel alone, it seems that 2017 version of Game X has greater first impression than the 2018
+-Game X from the start is not doing well, not because bad first impression, but Game X staying power is weak
+-probably Game X actually has a strong first impression.
+-not doing well means Game X doesn’t have enough features to keep players playing >> need interesting feature
+-the events is not interesting or rewarding enough for the players to keep playing.
+-Media acquisition using Video always net higher numbers compared to the other
+-
